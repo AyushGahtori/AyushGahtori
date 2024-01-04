@@ -2,27 +2,27 @@
   <img height="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"  />
 </div>
 
-###
 
-<p align="center">Hii..👋 I am Ayush..</p>
 
-###
+<p align="center">print("Hii..👋 I am Ayush..")</p>
+
+
 
 <p align="center">Seasoned Software Developer: Crafting Excellence in Code for Four Years and Counting</p>
 
-###
+
 
 <p align="left">Working for 2 years professionally...🏢</p>
 
-###
+
 
 <p align="left">Currently learning new technologies...✍️</p>
 
-###
+
 
 <p align="left">Open for new opportunities...</p>
 
-###
+
 
 <br clear="both">
 
