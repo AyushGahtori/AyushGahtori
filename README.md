@@ -101,7 +101,4 @@
 </div>
 
 ###
-.readme {
-  background-color: black;
-  color: white; /* Adjust text color as needed */
-}
+
