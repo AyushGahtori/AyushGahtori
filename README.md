@@ -2,6 +2,8 @@
   <img height="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"  />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AyushGahtori)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p align="center">print("Hii..👋 I am Ayush..")</p>
